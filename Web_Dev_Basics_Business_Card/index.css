@@ -1,0 +1,24 @@
+.business-card-wrapper {
+    display: flex;   
+    margin: auto;
+    background-color: #ddebf8;
+    width: 400px;
+    padding: 1em;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 10px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mona-img {
+    height: 200px;
+    /* width: 200px; */
+    /* margin-left: 1em; */
+    /* margin-right: 1em; */
+    /* margin:1em; */
+}
+
+.text {
+    color: #2b2839;
+    line-height: 2em;
+    font-size: large;
+}

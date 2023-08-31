@@ -1,0 +1,40 @@
+body {
+    background-color: #202124;
+}
+
+.main {
+    margin-top: 20em;
+}
+
+#logo-img {
+    width: 300px;
+    display: block;
+    
+    margin: 0 auto 2.5em;
+    
+}
+
+#search-input {
+    width: 600px;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    border-radius: 1.5em;
+    background-color: #202124;
+    color: white;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 10em;
+    padding: 5px;
+    margin-right: 1em;
+    background-color: grey;
+    border-radius: 15px;
+}
